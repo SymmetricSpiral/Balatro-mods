@@ -1,6 +1,7 @@
 # Balatro-mods
-A list of balatro mods made by me, all of it is art, downloads can also be found at https://github.com/skyline69/balatro-mod-index and on the Balatro Mod Manager
+Pokémon themed Balatro face card skins, downloads can also be found at https://github.com/skyline69/balatro-mod-index and on the Balatro Mod Manager
 
+#### For questions, recommendations, or critiques, feel free to contact me on Instagram or Discord @symmetricspiral
 
 ### Disclaimer:
 This is a non-commercial fan project created for educational and entertainment purposes. 

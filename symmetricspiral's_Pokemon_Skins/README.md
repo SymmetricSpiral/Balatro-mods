@@ -1,6 +1,19 @@
 # Balatro-mods
 Pokémon themed Balatro face card skins, downloads can also be found at https://github.com/skyline69/balatro-mod-index and on the Balatro Mod Manager
 
+### currently has:
+##### Generation 3 Legendaries [Diamonds]:
+- Groudon Jacks
+- Kyogre Queens
+- Rayquaza Kings
+
+##### Tyrogue Evolutions [Clubs]:
+- Hitmontop Jacks
+- Hitmonlee Queens
+- Hitmonchan Kings
+
+###### *requires Steammodded
+
 #### For questions, recommendations, or critiques, feel free to contact me on Instagram or Discord @symmetricspiral
 
 ### Disclaimer:
